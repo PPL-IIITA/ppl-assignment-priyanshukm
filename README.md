@@ -1,3 +1,2 @@
-# ppl-assignment-priyanshukm
-ppl-assignment-priyanshukm created by GitHub Classroom
-IIT2015507
+# PPL - Assignment - Priyanshu Kumar
+# IIT2015507
