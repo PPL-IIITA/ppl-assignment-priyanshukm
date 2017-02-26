@@ -136,6 +136,7 @@ int main()
 		for(int j = 0; j < (boyslist[i].gifts).size(); j++)
 		{
 			string message = boyslist[i].name + " Gifted " + ((boyslist[i].gf)->name) + " " + (boyslist[i].gifts)[j].name ;
+			cout << message << endl;
 			newlog.logger("Gifting : ", message);
 		}
 	}
