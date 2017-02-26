@@ -33,6 +33,7 @@ int main()
 				girlslist[j].assignBoyfriend(&boyslist[i]);
 
 				string message = boyslist[i].name + " is Commited to " + girlslist[j].name;
+				cout << message << endl;
 				newlog.logger("Commitment <3 : ",message);
 
 				break;
