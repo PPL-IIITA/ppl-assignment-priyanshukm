@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_readfile.html#ac7c2a3b2e07bf85831365fa262c524d8" title="Readfile::ReadBoys" alt="" coords="116,5,255,32"/>
+<area shape="rect" id="node3" href="$class_readfile.html#ab91c1929b2f75870ff3d0472f1344082" title="Readfile::ReadGirls" alt="" coords="117,56,253,83"/>
+<area shape="rect" id="node4" href="$class_readfile.html#a27e7d6a5fbbce55559cb356778953839" title="Readfile::ReadGifts" alt="" coords="117,107,254,133"/>
+<area shape="rect" id="node5" href="$class_log.html#a069279c54bf482edab9a9e235dcfcdec" title="Log::logger" alt="" coords="142,157,229,184"/>
+<area shape="rect" id="node6" href="$class_test_generator.html#abfffe49a9c75d5ef98819138e41fb772" title="TestGenerator::getRand" alt="" coords="104,208,267,235"/>
+</map>
