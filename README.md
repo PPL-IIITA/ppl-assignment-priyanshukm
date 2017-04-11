@@ -13,10 +13,6 @@ bash Question2.sh
 ```
 
 **To View Documentation :**
-- Download the project
-- Extract it
-- Go to "html" folder
-- Open "index.html" with any browser
-- Enjoy :P
+https://ppl-iiita.github.io/ppl-assignment-priyanshukm/\
 
 Log is maintained in "logfile.txt"
