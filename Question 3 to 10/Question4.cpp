@@ -188,9 +188,9 @@ int main()
 		((boyslist[index].gf)->gifts).clear();
 		((boyslist[index].gf)->bf) = NULL;
 
+		int flag = 0;
 		for(int j = 0;j < boyslist.size();j++)
 		{
-			int flag = 0;
 			if((boyslist[j].status == false) && (boyslist[j].canDate((boyslist[index].gf)) == true && 
 				(*(boyslist[index].gf)).canDate(&boyslist[j]) == true))
 			{
