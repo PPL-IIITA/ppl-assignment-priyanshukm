@@ -2,12 +2,11 @@
 ## Priyanshu Kumar - IIT2015507
 
 
-**To Execute Question 1 :** 
+**To Execute Question x :** 
 ```
-bash Question1.sh
+bash Questionx.sh
 ```
-
-**To Execute Question 2 :**
+**For Example to Execute Question 2:**
 ```
 bash Question2.sh
 ```
